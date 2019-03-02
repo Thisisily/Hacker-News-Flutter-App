@@ -1,0 +1,4 @@
+#Tue Feb 26 10:20:22 IRST 2019
+base.0=C\:\\Users\\dimndhrtdevil\\Workspace\\news\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
